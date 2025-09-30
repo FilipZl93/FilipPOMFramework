@@ -26,5 +26,5 @@ public class ByFlowTests extends BaseTest {
         Assert.assertTrue(element.isDisplayed());
 
 
-}
+    }
 }
